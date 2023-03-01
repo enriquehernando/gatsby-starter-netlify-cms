@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Jajaja
-image: /img/home-jumbotron.jpg
+title: devsummits
+image: /img/insignia_embajadores.png
 heading: Great coffee with a conscience
-subheading: Porque sí
+subheading: " La revolución ha llegado"
 mainpitch:
   title: Why Kaldi
   description: >
